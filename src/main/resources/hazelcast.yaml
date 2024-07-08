@@ -1,0 +1,12 @@
+hazelcast:
+  network:
+    join:
+      multicast:
+        enabled: true
+
+
+  map:
+    default:
+      time-to-live-seconds: 60
+
+
